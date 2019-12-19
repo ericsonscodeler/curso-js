@@ -11,3 +11,8 @@ console.log(escola.substring(2))// pega todas as letraas apartir da 2º letra
 
 
 console.log('Escola '.concat(escola).concat ("!!"))
+
+
+console.log('Ana,Maria,Pedro'.split(',')) /// converter as strings em array
+
+
